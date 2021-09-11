@@ -20,9 +20,7 @@ public class BoardController {
 	@RequestMapping(value = "/home.do", method = RequestMethod.GET)
 	public String list(Model model) {
 		List<BoardVO> list = service.list();
-		//TLQKFPOQWJiofhdesoihgds;uhsauldhgseluihsuli
-		odsbgjk;ehraoihaerjoi
-		
+ 
 		return "home";
 	}
 }
