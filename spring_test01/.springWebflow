@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<webflow-project-description>
+	<version>1</version>
+	<pluginVersion><![CDATA[3.9.14.202009020636-CI-B2667]]></pluginVersion>
+	<configs>
+		<config>
+			<file>src/main/java/co/kr/board/BoardVO.xml</file>
+			<name><![CDATA[BoardVO]]></name>
+		</config>
+	</configs>
+</webflow-project-description>
